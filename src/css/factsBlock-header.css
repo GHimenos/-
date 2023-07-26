@@ -1,0 +1,15 @@
+.factsBlock_header {
+    display: flex;
+    padding: 0 1.625rem;
+    align-items: center;
+    gap: 0 0.418rem;
+    width: 100%;
+    height: 5.688rem;
+    color: #61DAFB;
+    background: #21222A;
+    font-family: Inter;
+    font-size: 1.391rem;
+    font-style: normal;
+    font-weight: 700;
+}
+

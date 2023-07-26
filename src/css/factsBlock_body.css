@@ -1,0 +1,35 @@
+.factsBlock_body {
+    display: flex;
+    flex-flow: column;
+    gap: 2.875rem 0;
+    padding-top: 4.063rem;
+    background-position: bottom right;
+    
+}
+
+h1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 2.441rem;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 1.813rem;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    gap: 1.563rem 0;
+    padding-left: 3.188rem;
+}
+
+ul>li {
+    background: url('../img/Ellipse\ 1listMarker.svg') no-repeat left center;
+    padding-left: 1.563rem;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+}

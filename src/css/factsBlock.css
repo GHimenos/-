@@ -1,0 +1,8 @@
+.factsBlock {
+    display: flex;
+    flex-flow: column;
+    margin: 10rem auto;
+    width: 34.375rem;
+    height: 34.375rem;
+    background: #282D35 url(../img/GroupReactWatermark.svg) no-repeat right 13.25rem;
+}
